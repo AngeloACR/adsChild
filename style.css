@@ -1,0 +1,12 @@
+/*
+ Theme Name:     Divi Child
+ Theme URI:      https://www.elegantthemes.com/gallery/divi/
+ Description:    Divi Child Theme
+ Author:         Angelo Crincoli
+ Template:       Divi
+ Version:        1.0.0
+*/
+
+p,h1,h2,h3,h4,h5,h6,div,a,ul,li{
+	font-family: 'Roboto', sans-serif;
+}
